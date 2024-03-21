@@ -6,8 +6,8 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmm1&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmm1" /> </p>-->
 
 <div  align="center" style="display: inline-block; margin-bottom:100px;">
-<img height="180px" width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedroaugustoluiz01&theme=radical&mode=weekly" />
-<img height="190px" width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaugustoluiz01&show_icons=true&theme=radical&layout=compact" />
+<img height="180px" width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedroaugustoluiz01&theme=tokyonight&mode=weekly" />
+<img height="190px" width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaugustoluiz01&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
  
  &nbsp;
